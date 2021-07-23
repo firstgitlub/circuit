@@ -54,6 +54,8 @@ public class BolgList {
      * #java ldap
      * https://docs.spring.io/spring-ldap/docs/current/reference/#ldap-query-builder-parameters
      *
+     * https://www.cnblogs.com/kebibuluan/p/14435592.html
+     *
      *
      * 经典：
      *
