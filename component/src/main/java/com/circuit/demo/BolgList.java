@@ -77,7 +77,15 @@ public class BolgList {
      * #领域驱动
      * https://static-acl-001.geekbang.org/resource/ebook/bf/bd/bf54748a33643e667156110202082cbd.pdf?auth_key=1626923235-0e2f14acf9f14583bd712357845b0ec9-0-b3d40d166ac7372098600179c4f53546
      *
+     * Open-JDK 中文官方文档介绍
+     * https://devdocs.io/openjdk~15/jdk.jartool/com/sun/jarsigner/contentsigner
      *
+     * #深入理解虚拟机 作者 博客
+     * https://www.iteye.com/blog/user/icyfenix
+     * https://www.iteye.com/blog/icyfenix-1119214
+     *
+     * #不错书籍介绍：
+     * http://www.hzbook.com/index.php/Book/lst/s1/1/s2/1.html
      *
      *
      *
