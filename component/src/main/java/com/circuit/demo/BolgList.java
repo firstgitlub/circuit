@@ -95,6 +95,9 @@ public class BolgList {
      * https://www.iocoder.cn/Fight/Dapper-translation/?self
      * https://blog.csdn.net/lewee0215/article/details/109636349
      *
+     * #redis 分布式锁的不错文章
+     * https://mp.weixin.qq.com/s/tApi6j7o-HOyzuQBzoQPVw
+     *
      *
      */
 }
