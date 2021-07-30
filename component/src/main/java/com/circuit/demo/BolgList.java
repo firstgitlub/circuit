@@ -91,6 +91,9 @@ public class BolgList {
      * #SkyWalking 官方文档
      * https://skywalking.apache.org/zh/2020-04-19-skywalking-quick-start/#
      *
+     * #微信公众号： 芋道源码 的整体博客地址
+     * https://www.iocoder.cn/Fight/Dapper-translation/?self
+     *
      *
      */
 }
