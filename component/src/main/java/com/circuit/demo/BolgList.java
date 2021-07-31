@@ -98,6 +98,11 @@ public class BolgList {
      * #redis 分布式锁的不错文章
      * https://mp.weixin.qq.com/s/tApi6j7o-HOyzuQBzoQPVw
      *
+     * #Seata分布式事务框架原理
+     * https://www.jianshu.com/p/044e95223a17
+     * https://www.sofastack.tech/blog/seata-distributed-transaction-deep-dive/
+     * https://github.com/seata/seata/wiki/
+     *
      *
      */
 }
