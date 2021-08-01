@@ -103,6 +103,9 @@ public class BolgList {
      * https://www.sofastack.tech/blog/seata-distributed-transaction-deep-dive/
      * https://github.com/seata/seata/wiki/
      *
+     * #spring cloud 原理解析
+     * https://www.cnblogs.com/jajian/p/9973555.html
+     *
      *
      */
 }
