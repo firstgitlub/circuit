@@ -106,6 +106,9 @@ public class BolgList {
      * #spring cloud 原理解析
      * https://www.cnblogs.com/jajian/p/9973555.html
      *
+     * #top命令后 cpu中的一些指标介绍
+     * https://mp.weixin.qq.com/s/wBxThjBgYPmwI_gQMHVDeg
+     *
      *
      */
 }
