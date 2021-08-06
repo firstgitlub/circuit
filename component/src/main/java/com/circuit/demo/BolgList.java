@@ -113,5 +113,8 @@ public class BolgList {
      * #CPU 执行程序的过程讲解
      * https://blog.csdn.net/u012351051/article/details/91129787
      *
+     * #Redis 原理篇
+     * https://www.cnblogs.com/dw-haung/p/11972708.html
+     *
      */
 }
