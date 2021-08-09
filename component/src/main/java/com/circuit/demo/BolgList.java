@@ -124,5 +124,8 @@ public class BolgList {
      * https://blog.csdn.net/suifeng3051/article/details/48160753?spm=1001.2014.3001.5501
      * https://blog.csdn.net/suifeng3051/article/details/48344587
      *
+     * #RocketMq 原理讲解透彻
+     * https://blog.csdn.net/zhuyanlin09/article/details/101751549
+     *
      */
 }
