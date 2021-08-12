@@ -137,5 +137,8 @@ public class BolgList {
      * 文本编辑工具：Sublime
      * 命令行工具：Cmder
      *
+     * netty介绍比较牛逼的文章：
+     * https://blog.csdn.net/qq_36434742/article/details/108157556
+     *
      */
 }
