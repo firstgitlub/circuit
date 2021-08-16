@@ -121,6 +121,8 @@ public class BolgList {
      * https://blog.csdn.net/qq193423571/article/details/81637075
      * # Redis 事件类型 与 处理器程序的绑定过程 也即是客户端与服务端整个的交互过程
      * https://www.cnblogs.com/pinxiong/p/13288094.html
+     * #redis 几种回收算法实现
+     * https://blog.csdn.net/u022812849/article/details/108596019
      *
      * #JAVA IO NIO 介绍
      * https://blog.csdn.net/suifeng3051
