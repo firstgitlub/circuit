@@ -144,5 +144,8 @@ public class BolgList {
      * netty介绍比较牛逼的文章：
      * https://blog.csdn.net/qq_36434742/article/details/108157556
      *
+     * #常用算法
+     * https://www.jianshu.com/p/af17440947f9
+     *
      */
 }
