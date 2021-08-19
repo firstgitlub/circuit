@@ -147,5 +147,8 @@ public class BolgList {
      * #常用算法
      * https://www.jianshu.com/p/af17440947f9
      *
+     * #feign讲解文章
+     * https://cloud.tencent.com/developer/article/1009212
+     *
      */
 }
