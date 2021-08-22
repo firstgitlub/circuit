@@ -154,6 +154,9 @@ public class BolgList {
      * #dubbo 文章介绍
      * http://dubbo.apache.org/blog/2018/08/07/dubbo-101/
      *
+     * #java monitor文章
+     * https://www.cnblogs.com/qingshan-tang/p/12698705.html
+     *
      *
      *
      */
