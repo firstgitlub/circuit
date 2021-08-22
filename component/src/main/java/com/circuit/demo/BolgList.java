@@ -157,6 +157,9 @@ public class BolgList {
      * #java monitor文章
      * https://www.cnblogs.com/qingshan-tang/p/12698705.html
      *
+     * #JVM配置参数 及 jdk7 与 jdk8的内存模型差别
+     * https://www.cnblogs.com/levontor/p/11340466.html
+     * https://www.cnblogs.com/duanxz/p/3520829.html
      *
      *
      */
