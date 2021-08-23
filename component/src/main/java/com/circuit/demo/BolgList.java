@@ -172,6 +172,10 @@ public class BolgList {
      * https://www.processon.com/diagrams  官网地址 密码：zhengHH123
      *
      *
+     * #原理解析很不错的文章
+     * http://c.biancheng.net/view/5356.html
+     *
+     *
      *
      */
 }
