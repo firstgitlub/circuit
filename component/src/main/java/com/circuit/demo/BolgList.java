@@ -153,6 +153,8 @@ public class BolgList {
      *
      * #dubbo 文章介绍
      * http://dubbo.apache.org/blog/2018/08/07/dubbo-101/
+     * #dubbo 序列化相关
+     * https://www.cnblogs.com/jameszheng/p/10271341.html
      *
      * #java monitor文章
      * https://www.cnblogs.com/qingshan-tang/p/12698705.html
@@ -164,6 +166,8 @@ public class BolgList {
      * #凤凰架构书中的附录项目
      * 文档工程：
      * 本书网站：https://icyfenix.cn   里面包含了书中讲解用到的 工程示例
+     *
+     *
      *
      *
      */
