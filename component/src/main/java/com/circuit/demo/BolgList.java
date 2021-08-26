@@ -175,6 +175,11 @@ public class BolgList {
      * #原理解析很不错的文章
      * http://c.biancheng.net/view/5356.html
      *
+     * #分布式一致性解析 CAP中的一致性 以及分布式事务的一致性
+     * https://mp.weixin.qq.com/s/d2dIUzjNjvVdDl6_uxMt3g
+     * #两阶段提交中数据库中的prepare 和 commit的实现原理，其实也是XA中2PC所依赖的实现原理
+     * https://blog.csdn.net/weixin_39850981/article/details/113187678
+     *
      *
      *
      */
