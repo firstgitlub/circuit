@@ -180,6 +180,9 @@ public class BolgList {
      * #两阶段提交中数据库中的prepare 和 commit的实现原理，其实也是XA中2PC所依赖的实现原理
      * https://blog.csdn.net/weixin_39850981/article/details/113187678
      *
+     * #http协议详解
+     * https://blog.csdn.net/weixin_38087538/article/details/82838762
+     *
      *
      *
      */
