@@ -183,6 +183,9 @@ public class BolgList {
      * #http协议详解
      * https://blog.csdn.net/weixin_38087538/article/details/82838762
      *
+     * #spring代理类是什么时候创建的？  容器初始化时候？ 方法调用时候？
+     * https://www.jianshu.com/p/a8c7eda2a49c
+     *
      *
      *
      */
