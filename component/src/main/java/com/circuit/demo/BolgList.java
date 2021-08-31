@@ -187,6 +187,9 @@ public class BolgList {
      * https://www.jianshu.com/p/a8c7eda2a49c
      * https://www.jianshu.com/p/557a87dfdef9
      *
+     * #关于ThreadLocal 真正引起内存泄漏的 原理分析
+     * https://juejin.cn/post/6844904046373896205
+     *
      *
      */
 }
