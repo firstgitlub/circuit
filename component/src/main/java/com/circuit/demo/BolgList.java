@@ -134,6 +134,10 @@ public class BolgList {
      *
      * #Mysql 索引原理介绍
      * http://blog.codinglabs.org/articles/theory-of-mysql-index.html
+     * #Mysql 锁介绍
+     * https://blog.csdn.net/qq_40378034/article/details/90904573
+     * #Mysql 悲观锁 乐观锁
+     * https://blog.csdn.net/qq_25600055/article/details/70170707?locationNum=7&fps=1
      *
      * #Java 技术栈
      * https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
