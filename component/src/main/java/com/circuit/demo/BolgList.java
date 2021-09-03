@@ -95,8 +95,6 @@ public class BolgList {
      * https://www.iocoder.cn/Fight/Dapper-translation/?self
      * https://blog.csdn.net/lewee0215/article/details/109636349
      *
-     * #redis 分布式锁的不错文章
-     * https://mp.weixin.qq.com/s/tApi6j7o-HOyzuQBzoQPVw
      *
      * #Seata分布式事务框架原理
      * https://www.jianshu.com/p/044e95223a17
@@ -123,6 +121,13 @@ public class BolgList {
      * https://www.cnblogs.com/pinxiong/p/13288094.html
      * #redis 几种回收算法实现
      * https://blog.csdn.net/u022812849/article/details/108596019
+     * #redis 分布式锁的不错文章
+     * https://mp.weixin.qq.com/s/tApi6j7o-HOyzuQBzoQPVw
+     * #Redis 哨兵选举的协议解析  先选择Leader 然后Leader 执行对应的故障转移，最后把最新的master 和 leader数据发送给别的 Sentinel
+     * https://blog.csdn.net/xuhao_xuhao/article/details/78885752
+     * #redis cluster 选举过程及交互使用的协议
+     * https://www.cnblogs.com/nijunyang/p/12508098.html
+     *
      *
      * #JAVA IO NIO 介绍
      * https://blog.csdn.net/suifeng3051
