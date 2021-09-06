@@ -199,6 +199,12 @@ public class BolgList {
      * #关于ThreadLocal 真正引起内存泄漏的 原理分析
      * https://juejin.cn/post/6844904046373896205
      *
+     * #网络负载均衡相关文章
+     * https://mp.weixin.qq.com/s/kvPWIah4OaY-zoXiGYNqbA
+     * https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=2655461152&idx=1&sn=d71ee41c6639777b993e8d7ab99b18b3&scene=21#wechat_redirect
+     * https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651498554&idx=1&sn=16d4fe94b87616e929ff29e29109a416&chksm=bd25c4458a524d5340ebfeb263b1d4602c9e272d89bb6c5bf4526808a6cd40d0a0ee08da93f0&scene=21#wechat_redirect
+     * https://mp.weixin.qq.com/s/j-h-5HrgHacfMjJsgoOu7w
+     *
      *
      */
 }
