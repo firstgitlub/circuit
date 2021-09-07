@@ -123,6 +123,9 @@ public class BolgList {
      * https://blog.csdn.net/u022812849/article/details/108596019
      * #redis 分布式锁的不错文章
      * https://mp.weixin.qq.com/s/tApi6j7o-HOyzuQBzoQPVw
+     * redis 分布式锁实现方案  加锁基于set命令+ 随机数防止误删  解锁基于lua脚本 实现原子性操作
+     * https://blog.csdn.net/u012903926/article/details/90640057
+     *
      * #Redis 哨兵选举的协议解析  先选择Leader 然后Leader 执行对应的故障转移，最后把最新的master 和 leader数据发送给别的 Sentinel
      * https://blog.csdn.net/xuhao_xuhao/article/details/78885752
      * #redis cluster 选举过程及交互使用的协议
