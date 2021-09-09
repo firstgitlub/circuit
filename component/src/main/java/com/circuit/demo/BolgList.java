@@ -208,7 +208,7 @@ public class BolgList {
      * https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=2651498554&idx=1&sn=16d4fe94b87616e929ff29e29109a416&chksm=bd25c4458a524d5340ebfeb263b1d4602c9e272d89bb6c5bf4526808a6cd40d0a0ee08da93f0&scene=21#wechat_redirect
      * https://mp.weixin.qq.com/s/j-h-5HrgHacfMjJsgoOu7w
      *
-     * #jvm垃圾收集器
+     * #jvm垃圾收集器  看着一篇就够了
      * https://blog.csdn.net/weixin_38035852/article/details/81328166
      *
      *
