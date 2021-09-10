@@ -172,6 +172,8 @@ public class BolgList {
      * http://dubbo.apache.org/blog/2018/08/07/dubbo-101/
      * #dubbo 序列化相关
      * https://www.cnblogs.com/jameszheng/p/10271341.html
+     * #dubbo 面试题相关
+     * https://mp.weixin.qq.com/s?__biz=MzI3ODcxMzQzMw==&mid=2247487261&idx=1&sn=d3dd9825515f2f79f5e44def251a8e5c&chksm=eb538a2bdc24033dd8c1ceba703688647fb2d7cdcda9b100fbaf60b65a4114ede7c444d087d6&mpshare=1&scene=1&srcid=1002YAyPx7X6QOYB5ZGXyMlP#rd
      *
      * #java monitor文章
      * https://www.cnblogs.com/qingshan-tang/p/12698705.html
