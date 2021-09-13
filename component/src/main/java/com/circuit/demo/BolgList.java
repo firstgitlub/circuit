@@ -202,6 +202,9 @@ public class BolgList {
      * #java synchronized 锁升级过程
      * https://blog.csdn.net/tongdanping/article/details/79647337
      *
+     * cpu上下文切换：
+     * https://blog.csdn.net/dingshuo168/article/details/106198218
+     *
      *
      */
 }
