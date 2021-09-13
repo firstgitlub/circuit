@@ -199,6 +199,9 @@ public class BolgList {
      * #关于ThreadLocal 真正引起内存泄漏的 原理分析
      * https://juejin.cn/post/6844904046373896205
      *
+     * #java synchronized 锁升级过程
+     * https://blog.csdn.net/tongdanping/article/details/79647337
+     *
      *
      */
 }
