@@ -143,6 +143,8 @@ public class BolgList {
      * https://blog.csdn.net/qq_40378034/article/details/90904573
      * #Mysql 悲观锁 乐观锁
      * https://blog.csdn.net/qq_25600055/article/details/70170707?locationNum=7&fps=1
+     * mysql 执行计划
+     * https://blog.csdn.net/ljp1919/article/details/52356334
      *
      * #Java 技术栈
      * https://mp.weixin.qq.com/s/-KbOyp4gXYY4Ok8S-rPa6Q
